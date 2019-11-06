@@ -1,13 +1,6 @@
 {
   "short_name": "React App",
-  "name": "portfolio-app",
-  "version": 1.0,
-  "homepage": "https://nidhinkadavil2019.github.io/portfolio",
-  "scripts": {
-		"start": "react-scripts start",
-		"build": "react-scripts build",
-		"predeploy": "yarn run build",
-		"deploy": "gh-pages -d build"},
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
