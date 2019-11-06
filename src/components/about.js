@@ -13,8 +13,8 @@ class About extends Component{
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p>I'm an experienced Senior Data Architect with a demonstrated history of working in the information technology and services industry. I'm skilled in Big Data Analytics, Predictive Analytics, Internet of Things, Big Data, and Design. </p>
-                      <p>I love photography, it makes moments last forever and beautiful. I'm more interested in spiritual things and takes classes in chinmaya mission washington chapter. </p>
+                      <p>I am an experienced Senior Data Architect with a demonstrated history of working in the information technology and services industry. I am skilled in Big Data Analytics, Predictive Analytics, Internet of Things, Big Data, and Design. </p>
+                      <p>I love photography, it makes moments last forever and beautiful. I am more interested in spiritual things and takes classes in chinmaya mission washington chapter. </p>
                     </div>
                   </div>
                 </div>
