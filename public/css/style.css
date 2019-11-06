@@ -659,8 +659,8 @@ body.offcanvas {
   .services .icon {
     position: absolute;
     top: -20px;
-    /* left: 0; */
-    left: 152px;
+    left: 0;
+    /* left: 152px; */
     right: 0;
     width: 100px;
     height: 50px;
